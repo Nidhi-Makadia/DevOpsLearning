@@ -1,2 +1,1 @@
-# DevOpsLearning
-my first repo for DevOps
+# My First Project for DevOps
